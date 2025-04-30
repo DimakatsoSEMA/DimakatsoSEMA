@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Dimakatso C. Sema
 
-<img src="https://github.com/user-attachments/assets/239e4d11-9877-4db0-b9c7-c66580f4e2ed" alt="Banner" width="100%" />
+![4401280](https://github.com/user-attachments/assets/441264f3-e265-4447-8e1f-6bc8a2620325)
 
 ## 💻 ENJOYING CODING — ONE STEP AT A TIME!
 
