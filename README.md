@@ -1,4 +1,4 @@
-# 👋 Hi, I’m DimakatsoSEMA
+# 👋 Hi, I’m Dimakatso Sema
 ![download](https://github.com/user-attachments/assets/239e4d11-9877-4db0-b9c7-c66580f4e2ed) ENJOYING CODING ONE STEP AT A TIME! 
 
 
